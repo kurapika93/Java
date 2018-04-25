@@ -1,0 +1,152 @@
+<Scores>
+	 <Score id ="clubname" value="PSM" >
+	 	<clubName>PSM</clubName>
+	  	<winScore>2</winScore>
+	  	<loseScore>0</loseScore>
+	  	<drawScore>0</drawScore>
+	  	<goalFors>3</goalFors>
+	  	<goalAgaints>1</goalAgaints>
+	  	<goalDraws>0</goalDraws>
+	  	<points>6</points>
+	 </Score>
+	 <Score id ="clubname" value="Persija" >
+	    <clubName>Persija</clubName>
+		<winScore>1</winScore>
+		<loseScore>1</loseScore>
+		<drawScore>0</drawScore>
+		<goalFors>3</goalFors>
+		<goalAgaints>1</goalAgaints>
+		<goalDraws>2</goalDraws>
+		<points>4</points>
+	 </Score>
+     <Score id ="clubname" value="Sriwijaya" > 
+ 	  	<clubName>Sriwijaya</clubName>
+ 	  	<winScore>1</winScore> 
+ 	  	<loseScore>1</loseScore> 
+ 	  	<drawScore>0</drawScore> 
+ 	  	<goalFors>3</goalFors> 
+ 	  	<goalAgaints>1</goalAgaints> 
+ 	  	<goalDraws>2</goalDraws> 
+ 	  	<points>4</points> 
+ 	 </Score> 
+ 	 <Score id ="clubname" value="Persipura" > 
+ 	  	<clubName>Persipura</clubName>
+ 	  	<winScore>1</winScore> 
+ 	  	<loseScore>1</loseScore>
+ 	  	<drawScore>0</drawScore> 
+ 	  	<goalFors>4</goalFors> 
+ 	  	<goalAgaints>3</goalAgaints> 
+ 	  	<goalDraws>1</goalDraws> 
+ 	  	<points>4</points> 
+ 	 </Score> 
+ 	 <Score id ="clubname" value="Bhayangkara" > 
+ 	    <clubName>Bhayangkara</clubName>
+ 	    <winScore>1</winScore> 
+ 	    <loseScore>1</loseScore> 
+ 	    <drawScore>0</drawScore> 
+ 	    <goalFors>2</goalFors> 
+ 	    <goalAgaints>1</goalAgaints> 
+ 	    <goalDraws>1</goalDraws> 
+ 	    <points>4</points> 
+ 	 </Score> 
+ 	 <Score id ="clubname" value="Persebaya" > 
+ 	    <clubName>Persebaya</clubName>
+ 	    <winScore>1</winScore> 
+ 	    <loseScore>1</loseScore> 
+ 	    <drawScore>0</drawScore> 
+ 	    <goalFors>2</goalFors> 
+ 	    <goalAgaints>1</goalAgaints> 
+ 	    <goalDraws>1</goalDraws> 
+ 	    <points>4</points> 
+ 	 </Score>
+ 	 <Score id ="clubname" value="PS Tira" > 
+	    <clubName>PS Tira</clubName>
+ 	    <winScore>1</winScore> 
+ 	    <loseScore>1</loseScore> 
+ 	    <drawScore>0</drawScore> 
+ 	    <goalFors>2</goalFors> 
+ 	    <goalAgaints>1</goalAgaints> 
+ 	    <goalDraws>1</goalDraws> 
+ 	    <points>4</points> 
+ 	 </Score> 
+ 	 <Score id ="clubname" value="Bali United" > 
+ 	    <clubName>Bali United</clubName>
+ 	    <winScore>1</winScore> 
+ 	    <loseScore>1</loseScore> 
+ 	    <drawScore>0</drawScore> 
+ 	    <goalFors>1</goalFors> 
+ 	    <goalAgaints>0</goalAgaints> 
+ 	    <goalDraws>1</goalDraws> 
+ 	    <points>4</points> 
+ 	 </Score> 
+ 	 <Score id ="clubname" value="Borneo" > 
+ 	    <clubName>Borneo</clubName>
+ 	    <winScore>1</winScore> 
+ 	    <loseScore>1</loseScore> 
+ 	    <drawScore>0</drawScore> 
+ 	    <goalFors>1</goalFors> 
+ 	    <goalAgaints>0</goalAgaints> 
+ 	    <goalDraws>1</goalDraws> 
+ 	    <points>4</points> 
+ 	 </Score>	  
+ 	 <Score id ="clubname" value="Madura United" > 
+ 	  	<clubName>Madura United</clubName>
+ 	  	<winScore>1</winScore> 
+ 	  	<loseScore>0</loseScore> 
+ 	  	<drawScore>1</drawScore> 
+ 	  	<goalFors>3</goalFors> 
+ 	  	<goalAgaints>2</goalAgaints> 
+ 	  	<goalDraws>1</goalDraws> 
+ 	  	<points>3</points> 
+ 	 </Score> 
+ 	 <Score id ="clubname" value="Mitra Kukar" > 
+ 	  	<clubName>Mitra Kukar</clubName>
+ 	  	<winScore>0</winScore> 
+ 	  	<loseScore>1</loseScore>
+ 	  	<drawScore>1</drawScore> 
+ 	  	<goalFors>2</goalFors> 
+ 	  	<goalAgaints>3</goalAgaints> 
+ 	  	<goalDraws>1</goalDraws> 
+ 	  	<points>1</points> 
+ 	 </Score>	  
+ 	 <Score id ="clubname" value="Persela" > 
+ 	  	<clubName>Persela</clubName>
+ 	  	<winScore>0</winScore> 
+ 	  	<loseScore>1</loseScore> 
+ 	  	<drawScore>1</drawScore> 
+ 	  	<goalFors>2</goalFors> 
+ 	  	<goalAgaints>3</goalAgaints> 
+ 	  	<goalDraws>1</goalDraws>
+ 	  	<points>1</points> 
+ 	 </Score>	  
+ 	 <Score id ="clubname" value="Arema" > 
+ 	  	<clubName>Arema</clubName>
+ 	  	<winScore>0</winScore> 
+ 	  	<loseScore>1</loseScore>
+ 	  	<drawScore>1</drawScore> 
+ 	  	<goalFors>3</goalFors> 
+ 	  	<goalAgaints>5</goalAgaints> 
+ 	  	<goalDraws>2</goalDraws> 
+ 	  	<points>1</points> 
+ 	 </Score>	 	  
+ 	 <Score id ="clubname" value="Barito Putera" > 
+ 	    <clubName>Barito Putera</clubName>
+ 	  	<winScore>0</winScore> 
+ 	  	<loseScore>1</loseScore>
+ 	  	<drawScore>1</drawScore> 
+ 	  	<goalFors>3</goalFors> 
+ 	  	<goalAgaints>5</goalAgaints> 
+ 	  	<goalDraws>2</goalDraws> 
+ 	 	<points>1</points> 
+ 	 </Score>	  
+ 	 	<Score id ="clubname" value="Persib" >
+ 	  	<clubName>Persib</clubName>
+ 	  	<winScore>0</winScore> 
+ 	  	<loseScore>1</loseScore>
+ 	  	<drawScore>1</drawScore> 
+ 	  	<goalFors>2</goalFors> 
+ 	  	<goalAgaints>4</goalAgaints> 
+ 	  	<goalDraws>2</goalDraws> 
+ 	  	<points>1</points> 
+ 	 </Score> 
+</Scores> 
